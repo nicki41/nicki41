@@ -3,7 +3,7 @@
 # Hi, I'm Nick
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Next.js+%26+React;Building+clean%2C+fast+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hobby+Developer;Building+for+the+community;One+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/nicki41?label=Follow&style=social)](https://github.com/nicki41)
@@ -16,16 +16,16 @@
 ### Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicki41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicki41&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nicki41&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicki41&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicki41&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicki41&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicki41&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicki41&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicki41&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=nicki41&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
